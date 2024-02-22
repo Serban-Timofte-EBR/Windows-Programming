@@ -1,0 +1,27 @@
+csc filename.cs (/unsafe) 
+
+Pointerii pot da erori "unsafe" in C# 
+    int * ptr1, ptr2;
+    ptr1 = &var1 => ptr1 si var1 pointeaza la aceeasi adresa (var1 = 20)
+    ptr2 = ptr1;
+    ptr2 = 20;
+
+C# nu are tipul fundamental char, ci are clasa STRING (sealed si immutable => nu pot modifica valoarea string de la o adresa de memorie)
+C# nu permite mostenirea multipla, dar putem implementa mai multe interfete
+Operatorul = face DOAR Shallow Copy ( IClonable for deepCopy )
+
+int i = 123; //var pe stiva => 4B pe stiva
+object 0 = i; //boxing - din tip mai mic am translatat intr-un tip mai mare =>4B in HEAP
+int j = (int)o; //unboxing - cast => alti 4B pe stiva
+
+ref - transmite referinta intr-o functie ( nu merge cu pointeri )
+
+MASIVE: 
+    - tip_date [] nume_masiv
+    - mosteneste din Array - operatii pe vectori (!!Length!!)
+    - toate valorile sunt duse in HEAP, iar referintele sunt in stiva 
+    - trebuie data ori o dimensiune ori o preia din lista de valori 
+    - v1[i] = (int[])v4.Clone() => deepCopy
+    
+    - int[,] matrice = {{1,2}, {3,4}};
+    - matrice = new int[3,2];
