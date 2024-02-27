@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\Codes\Windows-Programming\Seminar2\Seminar2\bin\Debug\Seminar2.exe.config
+\\Mac\Home\Documents\Codes\Windows-Programming\Seminar2\Seminar2\bin\Debug\Seminar2.exe
+\\Mac\Home\Documents\Codes\Windows-Programming\Seminar2\Seminar2\bin\Debug\Seminar2.pdb
+\\Mac\Home\Documents\Codes\Windows-Programming\Seminar2\Seminar2\obj\Debug\Seminar2.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Codes\Windows-Programming\Seminar2\Seminar2\obj\Debug\Seminar2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Codes\Windows-Programming\Seminar2\Seminar2\obj\Debug\Seminar2.exe
+\\Mac\Home\Documents\Codes\Windows-Programming\Seminar2\Seminar2\obj\Debug\Seminar2.pdb
