@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\Codes\Windows-Programming\Seminar2_Designer\Seminar2_Designer\bin\Debug\Seminar2_Designer.exe.config
+\\Mac\Home\Documents\Codes\Windows-Programming\Seminar2_Designer\Seminar2_Designer\bin\Debug\Seminar2_Designer.exe
+\\Mac\Home\Documents\Codes\Windows-Programming\Seminar2_Designer\Seminar2_Designer\bin\Debug\Seminar2_Designer.pdb
+\\Mac\Home\Documents\Codes\Windows-Programming\Seminar2_Designer\Seminar2_Designer\obj\Debug\Seminar2_Designer.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Codes\Windows-Programming\Seminar2_Designer\Seminar2_Designer\obj\Debug\Seminar2_Designer.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Codes\Windows-Programming\Seminar2_Designer\Seminar2_Designer\obj\Debug\Seminar2_Designer.exe
+\\Mac\Home\Documents\Codes\Windows-Programming\Seminar2_Designer\Seminar2_Designer\obj\Debug\Seminar2_Designer.pdb
