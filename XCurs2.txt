@@ -1,0 +1,58 @@
+Derivarea se face dintr-o singura clasa de baza, dar se pot mosteni mai multe interfete
+Tipuri de acces ( noi ): internal - pt acelasi assembly 
+
+In clasa data, sa se defineasca un atribut constant 
+    - prin const -> initializare la declarare => Se comporta ca atribute statice (acces prin NumeClasa.NumeAtribut)
+    - prin readonly -> se poate initializa si ulterior (in constructor)
+
+In C# nu avem destructor pentru ca folosim garbage collector, dar putem dpdv al sintaxei sa definim unul
+    Este folositor pentru:
+        - oprirea conexiunii la o baza de date
+        - NU pentru a sterge cu delete
+    Nu se poate apela explicit
+
+Intr-o clasa abstracta definim un constructor pentru a putea initializa atributele din clasa de baza independent de clasa derivata
+
+SUPRAINCARCARE OPERATORI:
+    - implementate prin functii statice
+    - operatorul = nu se mai supraincarca ( rolul lui este sa faca shallow copy )
+    - = . ? -> new is sizeof typeof [] () + = -=    NU se supraincarca ( [] doar indexare se supraincarca )
+    - += este evaluat prin +    (daca se cere supraincarcarea operatorului +=, se supraincarca +) !!!
+    - OBLIGATORIU folosim un param de tipul clasei ( pentru ca folosim doar functii statice )
+    
+    !!!!
+    //supraincarcare indexare
+        public double this[int index]
+        {
+            get
+            {
+                if (note != null && index >= 0 && index < note.Length)
+                    return note[index];
+                else
+                    return -1;
+            }
+        }
+    - In clasele unde avem un vector de atribute
+    - NU se face prin functie, ci ca proprietate
+
+Supraincarcarea CAST se face folosind cuv cheie explicit/implicit
+
+
+IClonable:
+
+object ICloneable.Clone()
+{
+     return this.MemberwiseClone();
+}
+
+-- DeepCopy pe obiect daca nu include un vector sau o colectie
+
+public object Clone()
+{
+    return ((ICloneable)this).Clone();
+}
+
+-- Shallow copy by default, dar prin MemberwiseClone se face DeepCopy
+
+!!! Facem suprimentar deepCopy pentru vectorul din clasa
+
