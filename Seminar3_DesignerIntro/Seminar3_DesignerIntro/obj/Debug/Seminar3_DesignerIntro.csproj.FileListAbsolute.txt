@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\Codes\Windows-Programming\Seminar3_DesignerIntro\Seminar3_DesignerIntro\bin\Debug\Seminar3_DesignerIntro.exe.config
+\\Mac\Home\Documents\Codes\Windows-Programming\Seminar3_DesignerIntro\Seminar3_DesignerIntro\bin\Debug\Seminar3_DesignerIntro.exe
+\\Mac\Home\Documents\Codes\Windows-Programming\Seminar3_DesignerIntro\Seminar3_DesignerIntro\bin\Debug\Seminar3_DesignerIntro.pdb
+\\Mac\Home\Documents\Codes\Windows-Programming\Seminar3_DesignerIntro\Seminar3_DesignerIntro\obj\Debug\Seminar3_DesignerIntro.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Codes\Windows-Programming\Seminar3_DesignerIntro\Seminar3_DesignerIntro\obj\Debug\Seminar3_DesignerIntro.Form1.resources
+\\Mac\Home\Documents\Codes\Windows-Programming\Seminar3_DesignerIntro\Seminar3_DesignerIntro\obj\Debug\Seminar3_DesignerIntro.Properties.Resources.resources
+\\Mac\Home\Documents\Codes\Windows-Programming\Seminar3_DesignerIntro\Seminar3_DesignerIntro\obj\Debug\Seminar3_DesignerIntro.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Codes\Windows-Programming\Seminar3_DesignerIntro\Seminar3_DesignerIntro\obj\Debug\Seminar3_DesignerIntro.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Codes\Windows-Programming\Seminar3_DesignerIntro\Seminar3_DesignerIntro\obj\Debug\Seminar3_DesignerIntro.exe
+\\Mac\Home\Documents\Codes\Windows-Programming\Seminar3_DesignerIntro\Seminar3_DesignerIntro\obj\Debug\Seminar3_DesignerIntro.pdb

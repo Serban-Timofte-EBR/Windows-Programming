@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\Codes\Windows-Programming\Seminar3\Seminar3\bin\Debug\Seminar3.exe.config
+\\Mac\Home\Documents\Codes\Windows-Programming\Seminar3\Seminar3\bin\Debug\Seminar3.exe
+\\Mac\Home\Documents\Codes\Windows-Programming\Seminar3\Seminar3\bin\Debug\Seminar3.pdb
+\\Mac\Home\Documents\Codes\Windows-Programming\Seminar3\Seminar3\obj\Debug\Seminar3.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Codes\Windows-Programming\Seminar3\Seminar3\obj\Debug\Seminar3.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Codes\Windows-Programming\Seminar3\Seminar3\obj\Debug\Seminar3.exe
+\\Mac\Home\Documents\Codes\Windows-Programming\Seminar3\Seminar3\obj\Debug\Seminar3.pdb
