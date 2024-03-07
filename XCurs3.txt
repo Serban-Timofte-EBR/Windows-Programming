@@ -1,0 +1,33 @@
+DELEGATE:
+    - echivaleaza conceptul de pointer in C++
+    - public delegate void NumeFunctie() {}
+    - implementarea mai multor metode cu acelasi prototip
+    - permite late biding ( la momentul executiei )
+
+EVENT: 
+    - public event FireAlarmDelegate FireAlarmEvent
+    - necesita mereu trigger:
+        public voi SunaAlarma(eventArgs e) {
+            FireAlarmEvent(this, e);
+        }
+    - cu delegate, mai multe clase pot subscrie la acelasi event 
+
+- Cele mai importante proprietati ale obiectului Forms:
+    Name,
+    Text,
+    BackgroundImage
+    BackColor
+    Font
+
+- Cele mai importante evenimente:
+    Load        (default event)
+    Paint
+    MouseDown
+    MouseUp
+    MouseMove
+    DragEnter
+    DragDrop
+    KeyPress
+
+- Form este derivata din CointainerControl !!!!
+- Location are ca punct de referinta coltul din stanga sus a formularului
