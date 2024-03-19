@@ -36,6 +36,15 @@
             this.chAn = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.chSpecializare = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.chDataNastere = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.menuAplicatie = new System.Windows.Forms.MenuStrip();
+            this.fisiereToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.inchidereToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.mediciToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.adaugaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.modificaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.stergeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.despreAplicatieToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.menuAplicatie.SuspendLayout();
             this.SuspendLayout();
             // 
             // lbMedici
@@ -45,7 +54,7 @@
             this.lbMedici.Items.AddRange(new object[] {
             "Medic Ionescu",
             "Medic Popescu"});
-            this.lbMedici.Location = new System.Drawing.Point(48, 49);
+            this.lbMedici.Location = new System.Drawing.Point(48, 140);
             this.lbMedici.Name = "lbMedici";
             this.lbMedici.Size = new System.Drawing.Size(273, 329);
             this.lbMedici.TabIndex = 0;
@@ -53,9 +62,9 @@
             // 
             // tbMedic
             // 
-            this.tbMedic.Location = new System.Drawing.Point(48, 435);
+            this.tbMedic.Location = new System.Drawing.Point(48, 595);
             this.tbMedic.Name = "tbMedic";
-            this.tbMedic.Size = new System.Drawing.Size(273, 31);
+            this.tbMedic.Size = new System.Drawing.Size(1240, 31);
             this.tbMedic.TabIndex = 2;
             this.tbMedic.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
@@ -69,7 +78,7 @@
             this.chDataNastere});
             this.lwMedici.FullRowSelect = true;
             this.lwMedici.HideSelection = false;
-            this.lwMedici.Location = new System.Drawing.Point(446, 49);
+            this.lwMedici.Location = new System.Drawing.Point(434, 140);
             this.lwMedici.Name = "lwMedici";
             this.lwMedici.Size = new System.Drawing.Size(854, 329);
             this.lwMedici.TabIndex = 3;
@@ -102,6 +111,71 @@
             this.chDataNastere.Text = "Data Nasterii";
             this.chDataNastere.Width = 156;
             // 
+            // menuAplicatie
+            // 
+            this.menuAplicatie.GripMargin = new System.Windows.Forms.Padding(2, 2, 0, 2);
+            this.menuAplicatie.ImageScalingSize = new System.Drawing.Size(32, 32);
+            this.menuAplicatie.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.fisiereToolStripMenuItem,
+            this.mediciToolStripMenuItem,
+            this.despreAplicatieToolStripMenuItem});
+            this.menuAplicatie.Location = new System.Drawing.Point(0, 0);
+            this.menuAplicatie.Name = "menuAplicatie";
+            this.menuAplicatie.Size = new System.Drawing.Size(1519, 42);
+            this.menuAplicatie.TabIndex = 4;
+            this.menuAplicatie.Text = "menuStrip1";
+            this.menuAplicatie.UseWaitCursor = true;
+            // 
+            // fisiereToolStripMenuItem
+            // 
+            this.fisiereToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.inchidereToolStripMenuItem});
+            this.fisiereToolStripMenuItem.Name = "fisiereToolStripMenuItem";
+            this.fisiereToolStripMenuItem.Size = new System.Drawing.Size(102, 38);
+            this.fisiereToolStripMenuItem.Text = "Fisiere";
+            // 
+            // inchidereToolStripMenuItem
+            // 
+            this.inchidereToolStripMenuItem.Name = "inchidereToolStripMenuItem";
+            this.inchidereToolStripMenuItem.Size = new System.Drawing.Size(246, 44);
+            this.inchidereToolStripMenuItem.Text = "Inchidere";
+            // 
+            // mediciToolStripMenuItem
+            // 
+            this.mediciToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.adaugaToolStripMenuItem,
+            this.modificaToolStripMenuItem,
+            this.stergeToolStripMenuItem});
+            this.mediciToolStripMenuItem.Name = "mediciToolStripMenuItem";
+            this.mediciToolStripMenuItem.Size = new System.Drawing.Size(106, 38);
+            this.mediciToolStripMenuItem.Text = "Medici";
+            // 
+            // adaugaToolStripMenuItem
+            // 
+            this.adaugaToolStripMenuItem.Name = "adaugaToolStripMenuItem";
+            this.adaugaToolStripMenuItem.Size = new System.Drawing.Size(359, 44);
+            this.adaugaToolStripMenuItem.Text = "Adauga";
+            this.adaugaToolStripMenuItem.Click += new System.EventHandler(this.adaugaToolStripMenuItem_Click);
+            // 
+            // modificaToolStripMenuItem
+            // 
+            this.modificaToolStripMenuItem.Name = "modificaToolStripMenuItem";
+            this.modificaToolStripMenuItem.Size = new System.Drawing.Size(359, 44);
+            this.modificaToolStripMenuItem.Text = "Modifica";
+            this.modificaToolStripMenuItem.Click += new System.EventHandler(this.modificaToolStripMenuItem_Click);
+            // 
+            // stergeToolStripMenuItem
+            // 
+            this.stergeToolStripMenuItem.Name = "stergeToolStripMenuItem";
+            this.stergeToolStripMenuItem.Size = new System.Drawing.Size(359, 44);
+            this.stergeToolStripMenuItem.Text = "Sterge";
+            // 
+            // despreAplicatieToolStripMenuItem
+            // 
+            this.despreAplicatieToolStripMenuItem.Name = "despreAplicatieToolStripMenuItem";
+            this.despreAplicatieToolStripMenuItem.Size = new System.Drawing.Size(207, 38);
+            this.despreAplicatieToolStripMenuItem.Text = "Despre Aplicatie";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
@@ -110,9 +184,12 @@
             this.Controls.Add(this.lwMedici);
             this.Controls.Add(this.tbMedic);
             this.Controls.Add(this.lbMedici);
+            this.Controls.Add(this.menuAplicatie);
+            this.MainMenuStrip = this.menuAplicatie;
             this.Name = "Form1";
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.menuAplicatie.ResumeLayout(false);
+            this.menuAplicatie.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -128,6 +205,14 @@
         private System.Windows.Forms.ColumnHeader chAn;
         private System.Windows.Forms.ColumnHeader chSpecializare;
         private System.Windows.Forms.ColumnHeader chDataNastere;
+        private System.Windows.Forms.MenuStrip menuAplicatie;
+        private System.Windows.Forms.ToolStripMenuItem fisiereToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem inchidereToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem mediciToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem adaugaToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem modificaToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem stergeToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem despreAplicatieToolStripMenuItem;
     }
 }
 

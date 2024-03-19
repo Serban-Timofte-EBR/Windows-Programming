@@ -6,13 +6,18 @@ using System.Threading.Tasks;
 
 namespace Seminar4
 {
-    internal class Medic
+    public class Medic
     {
         private string cnp;
         private string nume;
         private int anAbsolvire;
         private string specializare;
         private DateTime dataNastere;
+
+        public Medic()
+        {
+
+        }
         
         public Medic(string _CNP, string _nume, int _anAbsolvire,
             string _specializare, DateTime _dataNastere )

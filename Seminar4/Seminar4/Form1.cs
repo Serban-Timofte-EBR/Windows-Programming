@@ -39,11 +39,6 @@ namespace Seminar4
             lwMedici.Items.Add(lv2);
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
@@ -64,6 +59,37 @@ namespace Seminar4
             //{
             //    tbMedic.Text = lwMedici.SelectedItems[0].Text;
             //}
+        }
+
+        private void adaugaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Medic m = null;
+            AdaugaMedic form = new AdaugaMedic(m);
+            if(form.ShowDialog() == DialogResult.OK)
+            {
+                m = form.mFormMedic;
+                ListViewItem lv3 = new ListViewItem(new string[]
+                { m.Nume, m.Cnp, m.AnAbsolvire.ToString(),
+                m.Specializare, m.DataNastere.ToString() }
+                );
+                lv3.Tag = m;
+                lwMedici.Items.Add(lv3);
+            }
+
+        }
+
+        private void modificaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Medic m = lwMedici.SelectedItems[0].Tag as Medic;
+            AdaugaMedic form = new AdaugaMedic(m);
+            if (form.ShowDialog() == DialogResult.OK ) {
+                ListViewItem lv3 = lwMedici.SelectedItems[0] as ListViewItem;
+                lv3.SubItems[0].Text = m.Nume;
+                lv3.SubItems[0].Text = m.Cnp;
+                lv3.SubItems[0].Text = m.AnAbsolvire.ToString();
+                lv3.SubItems[0].Text = m.Specializare;
+                lv3.SubItems[0].Text = m.DataNastere.ToString();
+            }
         }
 
         private void lbMedici_SelectedIndexChanged(object sender, EventArgs e)
