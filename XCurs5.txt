@@ -1,0 +1,8 @@
+Clasa Graphics:
+    - clasa fara constructor
+    - se lucreaza cu referinta 
+    - fromDWND, fromImagine
+
+Proprietate pentru full screen dimensionare => set dock 
+
+Acceleratorul se introduce prin & 
