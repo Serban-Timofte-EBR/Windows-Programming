@@ -10,6 +10,7 @@ using System.Runtime.Serialization.Formatters.Binary;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Xml.Serialization;
 
 namespace Medici_Pacienti
 {
@@ -40,9 +41,13 @@ namespace Medici_Pacienti
             lv2.Tag = m2;
             lvMedici.Items.Add(lv2);
 
-
-
+            TreeNode t = new TreeNode(m1.Nume + " - " + m1.Specializare);
+            t.Tag = m1;
+            tvMedici.Nodes.Add(t);
              
+            TreeNode t2 = new TreeNode(m2.Nume + " - " + m2.Specializare);
+            t2.Tag = m2;
+            tvMedici.Nodes.Add(t2);
         }
 
         private void lvMedici_SelectedIndexChanged(object sender, EventArgs e)
@@ -180,6 +185,109 @@ namespace Medici_Pacienti
                     lvMedici.Items.Add(lvi);
                     fisier.Close();
                 }
+            }
+        }
+
+        private void salvareXMLToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            SaveFileDialog fd = new SaveFileDialog();
+            fd.Filter = "Salvare xml | *.xml";
+            fd.CheckPathExists = true;
+            if(fd.ShowDialog() == DialogResult.OK)
+            {
+                List<Medic> lista = new List<Medic>();
+                foreach(ListViewItem lvi in lvMedici.Items)
+                {
+                    lista.Add((Medic)lvi.Tag);
+                }
+                try
+                {
+                    XmlSerializer serializer = new XmlSerializer(typeof(Medic));
+                    Stream fisier = File.Create(fd.FileName);
+                    serializer.Serialize(fisier, lista);
+                    MessageBox.Show("File is saved");
+                    fisier.Close();
+                }
+                catch(Exception err) {
+                    MessageBox.Show(err.Message);
+                }
+            }
+        }
+        
+        private void restaurareXMLToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog ofd = new OpenFileDialog();
+            ofd.Filter = "Fisier xml | *.xml";
+            ofd.CheckFileExists = true;
+            if(ofd.ShowDialog() == DialogResult.OK)
+            {
+                try
+                {
+                    Stream fisier = File.OpenRead(ofd.FileName);
+                    XmlSerializer serializer = new XmlSerializer(typeof(List<Medic>));
+                    List<Medic> lista = (List<Medic>)serializer.Deserialize(fisier);
+                    
+                    if(lvMedici.Items.Count > 0)
+                    {
+                        if (MessageBox.Show(
+                            "Vrei sa stergi medicii extindeti din lista?",
+                            "Intrebare",
+                            MessageBoxButtons.YesNo,
+                            MessageBoxIcon.Question
+                            ) == DialogResult.Yes)
+                        {
+                            lvMedici.Clear();
+                        }
+                    }
+
+                    foreach(Medic medic in lista)
+                    {
+                        ListViewItem lvi = new ListViewItem(new string[]
+                        {
+                            medic.Nume, medic.Cnp, medic.AnAbsolvire.ToString(),
+                            medic.Specializare,
+                            medic.DataNastere.ToString(),
+                        });
+                        lvi.Tag = medic;
+                        lvMedici.Items.Add(lvi);
+                    }
+                    fisier.Close();
+                }
+                catch(Exception err2) {
+                    MessageBox.Show(err2.Message);
+                }
+            }
+        }
+
+        private void lvMedici_MouseDown(object sender, MouseEventArgs e)
+        {
+            if(lvMedici.SelectedItems.Count > 0)
+            {
+                lvMedici.DoDragDrop((Medic)lvMedici.SelectedItems[0].Tag,
+                    DragDropEffects.Copy
+                );
+            }
+        }
+
+        private void tvMedici_DragEnter(object sender, DragEventArgs e)
+        {
+            if(e.Data.GetDataPresent(new Medic().GetType().ToString())) {
+                e.Effect = DragDropEffects.Copy;
+            }
+            else
+            {
+                e.Effect= DragDropEffects.None;
+            }
+        }
+
+        private void tvMedici_DragDrop(object sender, DragEventArgs e)
+        {
+            if (e.Effect == DragDropEffects.Copy &&
+                e.Data.GetDataPresent(new Medic().GetType().ToString())) ;
+            {
+                Medic m = (Medic)e.Data.GetData(new Medic().GetType().ToString());
+                TreeNode t = new TreeNode(m.Nume + " - " + m.Specializare);
+                t.Tag = m;
             }
         }
 
