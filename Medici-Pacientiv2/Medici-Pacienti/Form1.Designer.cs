@@ -46,15 +46,16 @@
             this.iesireToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.salvareBinaraToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.restaurareBinaraToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.salvareXMLToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.restaurareXMLToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.mediciToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.adaugaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.modificaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.stergeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.despreAplicatieToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.salvareXMLToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.restaurareXMLToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tvMedici = new System.Windows.Forms.TreeView();
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
+            this.copiazaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.contextMenuStrip1.SuspendLayout();
             this.menuAplicatie.SuspendLayout();
             this.SuspendLayout();
@@ -66,13 +67,14 @@
             this.lbMedici.Items.AddRange(new object[] {
             "Medic Ionescu",
             "Medic Popescu"});
-            this.lbMedici.Location = new System.Drawing.Point(1212, 583);
+            this.lbMedici.Location = new System.Drawing.Point(626, 525);
             this.lbMedici.Margin = new System.Windows.Forms.Padding(6);
             this.lbMedici.MultiColumn = true;
             this.lbMedici.Name = "lbMedici";
-            this.lbMedici.Size = new System.Drawing.Size(262, 129);
+            this.lbMedici.Size = new System.Drawing.Size(384, 279);
             this.lbMedici.TabIndex = 0;
             this.lbMedici.SelectedIndexChanged += new System.EventHandler(this.lbMedici_SelectedIndexChanged);
+            this.lbMedici.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.lbMedici_KeyPress);
             // 
             // tbMedic
             // 
@@ -102,6 +104,7 @@
             this.lvMedici.UseCompatibleStateImageBehavior = false;
             this.lvMedici.View = System.Windows.Forms.View.Details;
             this.lvMedici.SelectedIndexChanged += new System.EventHandler(this.lvMedici_SelectedIndexChanged);
+            this.lvMedici.DragDrop += new System.Windows.Forms.DragEventHandler(this.lvMedici_DragDrop);
             this.lvMedici.MouseDown += new System.Windows.Forms.MouseEventHandler(this.lvMedici_MouseDown);
             // 
             // chNume
@@ -133,9 +136,10 @@
             this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.adaugaToolStripMenuItem1,
             this.modificaToolStripMenuItem1,
-            this.stergeToolStripMenuItem1});
+            this.stergeToolStripMenuItem1,
+            this.copiazaToolStripMenuItem});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(182, 118);
+            this.contextMenuStrip1.Size = new System.Drawing.Size(182, 156);
             this.contextMenuStrip1.Opening += new System.ComponentModel.CancelEventHandler(this.contextMenuStrip1_Opening);
             // 
             // adaugaToolStripMenuItem1
@@ -169,7 +173,7 @@
             this.despreAplicatieToolStripMenuItem});
             this.menuAplicatie.Location = new System.Drawing.Point(0, 0);
             this.menuAplicatie.Name = "menuAplicatie";
-            this.menuAplicatie.Size = new System.Drawing.Size(1502, 40);
+            this.menuAplicatie.Size = new System.Drawing.Size(1630, 40);
             this.menuAplicatie.TabIndex = 3;
             this.menuAplicatie.Text = "menuStrip1";
             // 
@@ -189,22 +193,36 @@
             // iesireToolStripMenuItem
             // 
             this.iesireToolStripMenuItem.Name = "iesireToolStripMenuItem";
-            this.iesireToolStripMenuItem.Size = new System.Drawing.Size(359, 44);
+            this.iesireToolStripMenuItem.Size = new System.Drawing.Size(331, 44);
             this.iesireToolStripMenuItem.Text = "Iesire";
             // 
             // salvareBinaraToolStripMenuItem
             // 
             this.salvareBinaraToolStripMenuItem.Name = "salvareBinaraToolStripMenuItem";
-            this.salvareBinaraToolStripMenuItem.Size = new System.Drawing.Size(359, 44);
+            this.salvareBinaraToolStripMenuItem.Size = new System.Drawing.Size(331, 44);
             this.salvareBinaraToolStripMenuItem.Text = "Salvare Binara";
             this.salvareBinaraToolStripMenuItem.Click += new System.EventHandler(this.salvareBinaraToolStripMenuItem_Click);
             // 
             // restaurareBinaraToolStripMenuItem
             // 
             this.restaurareBinaraToolStripMenuItem.Name = "restaurareBinaraToolStripMenuItem";
-            this.restaurareBinaraToolStripMenuItem.Size = new System.Drawing.Size(359, 44);
+            this.restaurareBinaraToolStripMenuItem.Size = new System.Drawing.Size(331, 44);
             this.restaurareBinaraToolStripMenuItem.Text = "&Restaurare Binara";
             this.restaurareBinaraToolStripMenuItem.Click += new System.EventHandler(this.restaurareBinaraToolStripMenuItem_Click);
+            // 
+            // salvareXMLToolStripMenuItem
+            // 
+            this.salvareXMLToolStripMenuItem.Name = "salvareXMLToolStripMenuItem";
+            this.salvareXMLToolStripMenuItem.Size = new System.Drawing.Size(331, 44);
+            this.salvareXMLToolStripMenuItem.Text = "Salvare XML";
+            this.salvareXMLToolStripMenuItem.Click += new System.EventHandler(this.salvareXMLToolStripMenuItem_Click);
+            // 
+            // restaurareXMLToolStripMenuItem
+            // 
+            this.restaurareXMLToolStripMenuItem.Name = "restaurareXMLToolStripMenuItem";
+            this.restaurareXMLToolStripMenuItem.Size = new System.Drawing.Size(331, 44);
+            this.restaurareXMLToolStripMenuItem.Text = "Restaurare XML";
+            this.restaurareXMLToolStripMenuItem.Click += new System.EventHandler(this.restaurareXMLToolStripMenuItem_Click);
             // 
             // mediciToolStripMenuItem
             // 
@@ -219,21 +237,21 @@
             // adaugaToolStripMenuItem
             // 
             this.adaugaToolStripMenuItem.Name = "adaugaToolStripMenuItem";
-            this.adaugaToolStripMenuItem.Size = new System.Drawing.Size(240, 44);
+            this.adaugaToolStripMenuItem.Size = new System.Drawing.Size(359, 44);
             this.adaugaToolStripMenuItem.Text = "Adauga";
             this.adaugaToolStripMenuItem.Click += new System.EventHandler(this.adaugaToolStripMenuItem_Click);
             // 
             // modificaToolStripMenuItem
             // 
             this.modificaToolStripMenuItem.Name = "modificaToolStripMenuItem";
-            this.modificaToolStripMenuItem.Size = new System.Drawing.Size(240, 44);
+            this.modificaToolStripMenuItem.Size = new System.Drawing.Size(359, 44);
             this.modificaToolStripMenuItem.Text = "Modifica";
             this.modificaToolStripMenuItem.Click += new System.EventHandler(this.modificaToolStripMenuItem_Click);
             // 
             // stergeToolStripMenuItem
             // 
             this.stergeToolStripMenuItem.Name = "stergeToolStripMenuItem";
-            this.stergeToolStripMenuItem.Size = new System.Drawing.Size(240, 44);
+            this.stergeToolStripMenuItem.Size = new System.Drawing.Size(359, 44);
             this.stergeToolStripMenuItem.Text = "Sterge";
             this.stergeToolStripMenuItem.Click += new System.EventHandler(this.stergeToolStripMenuItem_Click);
             // 
@@ -242,20 +260,6 @@
             this.despreAplicatieToolStripMenuItem.Name = "despreAplicatieToolStripMenuItem";
             this.despreAplicatieToolStripMenuItem.Size = new System.Drawing.Size(204, 36);
             this.despreAplicatieToolStripMenuItem.Text = "Despre aplicatie";
-            // 
-            // salvareXMLToolStripMenuItem
-            // 
-            this.salvareXMLToolStripMenuItem.Name = "salvareXMLToolStripMenuItem";
-            this.salvareXMLToolStripMenuItem.Size = new System.Drawing.Size(359, 44);
-            this.salvareXMLToolStripMenuItem.Text = "Salvare XML";
-            this.salvareXMLToolStripMenuItem.Click += new System.EventHandler(this.salvareXMLToolStripMenuItem_Click);
-            // 
-            // restaurareXMLToolStripMenuItem
-            // 
-            this.restaurareXMLToolStripMenuItem.Name = "restaurareXMLToolStripMenuItem";
-            this.restaurareXMLToolStripMenuItem.Size = new System.Drawing.Size(359, 44);
-            this.restaurareXMLToolStripMenuItem.Text = "Restaurare XML";
-            this.restaurareXMLToolStripMenuItem.Click += new System.EventHandler(this.restaurareXMLToolStripMenuItem_Click);
             // 
             // tvMedici
             // 
@@ -269,11 +273,18 @@
             this.tvMedici.DragDrop += new System.Windows.Forms.DragEventHandler(this.tvMedici_DragDrop);
             this.tvMedici.DragEnter += new System.Windows.Forms.DragEventHandler(this.tvMedici_DragEnter);
             // 
+            // copiazaToolStripMenuItem
+            // 
+            this.copiazaToolStripMenuItem.Name = "copiazaToolStripMenuItem";
+            this.copiazaToolStripMenuItem.Size = new System.Drawing.Size(300, 38);
+            this.copiazaToolStripMenuItem.Text = "Copiaza";
+            this.copiazaToolStripMenuItem.Click += new System.EventHandler(this.copiazaToolStripMenuItem_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1502, 865);
+            this.ClientSize = new System.Drawing.Size(1630, 865);
             this.Controls.Add(this.tvMedici);
             this.Controls.Add(this.lvMedici);
             this.Controls.Add(this.tbMedic);
@@ -319,6 +330,7 @@
         private System.Windows.Forms.ToolStripMenuItem restaurareXMLToolStripMenuItem;
         private System.Windows.Forms.TreeView tvMedici;
         private System.ComponentModel.BackgroundWorker backgroundWorker1;
+        private System.Windows.Forms.ToolStripMenuItem copiazaToolStripMenuItem;
     }
 }
 

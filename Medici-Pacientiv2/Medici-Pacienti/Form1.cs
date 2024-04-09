@@ -103,10 +103,9 @@ namespace Medici_Pacienti
                 if (MessageBox.Show("Esti sigur ca vrei sa stergi medicul selectat?",
                     "Confirmare",
                     MessageBoxButtons.OKCancel) == DialogResult.OK)
-                lvMedici.SelectedItems[0].Remove();
+                    lvMedici.SelectedItems[0].Remove();
             }
-
-            }
+        }
 
         private void contextMenuStrip1_Opening(object sender, CancelEventArgs e)
         {
@@ -288,6 +287,40 @@ namespace Medici_Pacienti
                 Medic m = (Medic)e.Data.GetData(new Medic().GetType().ToString());
                 TreeNode t = new TreeNode(m.Nume + " - " + m.Specializare);
                 t.Tag = m;
+            }
+        }
+
+        private void copiazaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if(lvMedici.SelectedItems.Count > 0)
+            {
+                Clipboard.SetText((lvMedici.SelectedItems[0].Tag as Medic).Nume);
+            }
+        }
+
+        private void lbMedici_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            // e.KeyChar = ;    pentru sa seta tasta 
+            if(Clipboard.ContainsText() == true)
+            {
+                lbMedici.Items.Add(Clipboard.GetText());
+            }
+        }
+
+        private void lvMedici_DragDrop(object sender, DragEventArgs e)
+        {
+            Point punct = new Point(e.X, e.Y);
+            Point punctDinTreeView = tvMedici.PointToClient(punct);
+            TreeNode tn = tvMedici.GetNodeAt(punctDinTreeView);
+
+            if(!(tn is null) && e.Effect == DragDropEffects.Copy &&
+                e.Data.GetDataPresent(new Medic().GetType().ToString()))
+            {
+                Medic m = (Medic)e.Data.GetData(new Medic().GetType().ToString());
+                TreeNode t = new TreeNode(m.Nume + " " + m.Specializare);
+                t.Tag = m;
+                tvMedici.Nodes.Add(t);
+                tn.Expand();
             }
         }
 

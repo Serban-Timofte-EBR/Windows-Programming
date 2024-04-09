@@ -58,6 +58,7 @@
     <Compile Include="FormMedic.Designer.cs">
       <DependentUpon>FormMedic.cs</DependentUpon>
     </Compile>
+    <Compile Include="Pacient.cs" />
     <Compile Include="Medic.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
