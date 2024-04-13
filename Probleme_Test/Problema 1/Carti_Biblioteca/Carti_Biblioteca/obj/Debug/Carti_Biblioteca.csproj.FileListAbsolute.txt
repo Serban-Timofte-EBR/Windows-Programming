@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 1\Carti_Biblioteca\Carti_Biblioteca\bin\Debug\Carti_Biblioteca.exe.config
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 1\Carti_Biblioteca\Carti_Biblioteca\bin\Debug\Carti_Biblioteca.exe
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 1\Carti_Biblioteca\Carti_Biblioteca\bin\Debug\Carti_Biblioteca.pdb
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 1\Carti_Biblioteca\Carti_Biblioteca\obj\Debug\Carti_Biblioteca.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 1\Carti_Biblioteca\Carti_Biblioteca\obj\Debug\Carti_Biblioteca.Form1.resources
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 1\Carti_Biblioteca\Carti_Biblioteca\obj\Debug\Carti_Biblioteca.Properties.Resources.resources
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 1\Carti_Biblioteca\Carti_Biblioteca\obj\Debug\Carti_Biblioteca.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 1\Carti_Biblioteca\Carti_Biblioteca\obj\Debug\Carti_Biblioteca.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 1\Carti_Biblioteca\Carti_Biblioteca\obj\Debug\Carti_Biblioteca.exe
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 1\Carti_Biblioteca\Carti_Biblioteca\obj\Debug\Carti_Biblioteca.pdb
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 1\Carti_Biblioteca\Carti_Biblioteca\obj\Debug\Carti_Biblioteca.AdaugaCarte.resources

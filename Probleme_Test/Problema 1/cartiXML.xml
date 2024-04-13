@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfCarte xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Carte>
+    <Titlu>Amintiri din Copilarie</Titlu>
+    <Autor>Ion Creanga</Autor>
+    <AnPublicare>2000</AnPublicare>
+  </Carte>
+  <Carte>
+    <Titlu>Praslea cel voinic</Titlu>
+    <Autor>Petre Ispirescu</Autor>
+    <AnPublicare>2010</AnPublicare>
+  </Carte>
+  <Carte>
+    <Titlu>Enigma Otiliei</Titlu>
+    <Autor>George Calinescu</Autor>
+    <AnPublicare>1975</AnPublicare>
+  </Carte>
+</ArrayOfCarte>

@@ -1,0 +1,20 @@
+Se dorește dezvoltarea unei aplicații Windows Forms pentru gestionarea cărților dintr-o bibliotecă. 
+
+Aplicația va permite adăugarea, modificarea, ștergerea și vizualizarea cărților, precum și salvarea 
+și încărcarea listei de cărți dintr-un fișier.
+
+Interfață principală:
+    ListView: Va afișa lista de cărți cu coloanele: Titlu, Autor, Anul publicării, Disponibilitate.
+    Buton de adăugare carte: Deschide un formular secundar pentru adăugarea unei noi cărți.
+    Buton de editare carte: Deschide un formular secundar pentru editarea cărții selectate.
+    Buton de ștergere carte: Șterge cartea selectată din lista.
+    Buton de salvare: Salvează lista actuală de cărți într-un fișier binar.
+    Buton de încărcare: Încarcă lista de cărți dintr-un fișier binar.
+Formular secundar pentru adăugare/editare carte:
+    Câmpuri de text: Titlu, Autor, Anul publicării.
+    Checkbox: Disponibilitate (Împrumutată sau disponibilă în bibliotecă).
+    Buton de salvare: Validează datele introduse și transferă informațiile înapoi la formularul principal pentru a fi adăugate sau actualizate în lista de cărți.
+    Validare date: Asigură că toate câmpurile sunt completate corect (ex. anul publicării trebuie să fie un număr).
+Tratarea evenimentelor:
+    ListView: Selectarea unei cărți va permite editarea sau ștergerea acesteia.
+    Validare în timp real: Verifică validitatea datelor pe măsură ce sunt introduse în câmpurile de text.
