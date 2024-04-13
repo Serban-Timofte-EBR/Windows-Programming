@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfClient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Client>
+    <Nume>Popescu</Nume>
+    <Prenume>Ion</Prenume>
+    <Varsta>45</Varsta>
+    <Abonament>ACTIV</Abonament>
+  </Client>
+  <Client>
+    <Nume>Georgescu</Nume>
+    <Prenume>Vlad</Prenume>
+    <Varsta>19</Varsta>
+    <Abonament>ACTIV</Abonament>
+  </Client>
+  <Client>
+    <Nume>Pamfil</Nume>
+    <Prenume>Mihai</Prenume>
+    <Varsta>22</Varsta>
+    <Abonament>INACTIV</Abonament>
+  </Client>
+</ArrayOfClient>

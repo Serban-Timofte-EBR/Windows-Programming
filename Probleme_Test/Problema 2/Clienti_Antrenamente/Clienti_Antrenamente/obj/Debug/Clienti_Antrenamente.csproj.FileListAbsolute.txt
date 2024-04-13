@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 2\Clienti_Antrenamente\Clienti_Antrenamente\bin\Debug\Clienti_Antrenamente.exe.config
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 2\Clienti_Antrenamente\Clienti_Antrenamente\bin\Debug\Clienti_Antrenamente.exe
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 2\Clienti_Antrenamente\Clienti_Antrenamente\bin\Debug\Clienti_Antrenamente.pdb
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 2\Clienti_Antrenamente\Clienti_Antrenamente\obj\Debug\Clienti_Antrenamente.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 2\Clienti_Antrenamente\Clienti_Antrenamente\obj\Debug\Clienti_Antrenamente.Form1.resources
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 2\Clienti_Antrenamente\Clienti_Antrenamente\obj\Debug\Clienti_Antrenamente.Properties.Resources.resources
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 2\Clienti_Antrenamente\Clienti_Antrenamente\obj\Debug\Clienti_Antrenamente.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 2\Clienti_Antrenamente\Clienti_Antrenamente\obj\Debug\Clienti_Antrenamente.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 2\Clienti_Antrenamente\Clienti_Antrenamente\obj\Debug\Clienti_Antrenamente.exe
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 2\Clienti_Antrenamente\Clienti_Antrenamente\obj\Debug\Clienti_Antrenamente.pdb
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 2\Clienti_Antrenamente\Clienti_Antrenamente\obj\Debug\Clienti_Antrenamente.AdaugaClient.resources

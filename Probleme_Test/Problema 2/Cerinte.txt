@@ -1,0 +1,22 @@
+Se dorește dezvoltarea unei aplicații Windows Forms pentru gestionarea clienților și antrenamentelor 
+într-o sală de fitness. Aplicația va permite adăugarea, modificarea, ștergerea și vizualizarea clienților 
+și a sesiunilor de antrenament.
+
+Funcționalități principale:
+
+Interfață principală:
+    ListView pentru clienți: Va afișa lista clienților cu coloanele: Nume, Prenume, Vârstă, Abonament (Activ/Inactiv).
+    TreeView pentru antrenamente: Va arăta antrenamentele programate sub forma unor noduri, organizate pe zile.
+    Buton de adăugare client: Deschide un formular secundar pentru adăugarea unui nou client.
+    Buton de editare client: Deschide un formular secundar pentru editarea clientului selectat.
+    Buton de ștergere client: Șterge clientul selectat din lista.
+    Butoane pentru adăugarea/editarea/ștergerea antrenamentelor: Manipulează nodurile în TreeView.
+    Buton de salvare și încărcare: Salvează și încarcă lista de clienți și antrenamente din/spre un fișier XML.
+Formular secundar pentru adăugare/editare client:
+    Câmpuri de text: Nume, Prenume, Vârstă.
+    Checkbox: Starea abonamentului (Activ/Inactiv).
+    Buton de salvare: Validează datele introduse și transferă informațiile înapoi la formularul principal pentru a fi adăugate sau actualizate în lista de clienți.
+    Validare date: Asigură că toate câmpurile sunt completate corect (ex. vârsta trebuie să fie un număr).
+Manipulare TreeView pentru antrenamente:
+    Adăugarea de noi antrenamente: Utilizatorul poate adăuga antrenamente specificând tipul antrenamentului și ora.
+    Editarea și ștergerea antrenamentelor: Modificarea detaliilor sau ștergerea antrenamentelor existente.
