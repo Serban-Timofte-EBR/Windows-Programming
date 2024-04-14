@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfAntrenamnet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Antrenamnet>
+    <zi>Luni</zi>
+    <ora>13</ora>
+    <sala>Sala C</sala>
+    <antrenor>Marius</antrenor>
+  </Antrenamnet>
+  <Antrenamnet>
+    <zi>Miercuri</zi>
+    <ora>10</ora>
+    <sala>Sala A</sala>
+    <antrenor>Vali</antrenor>
+  </Antrenamnet>
+  <Antrenamnet>
+    <zi>Vineri</zi>
+    <ora>19</ora>
+    <sala>Sala A</sala>
+    <antrenor>Vali</antrenor>
+  </Antrenamnet>
+</ArrayOfAntrenamnet>

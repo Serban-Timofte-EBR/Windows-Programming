@@ -9,3 +9,4 @@
 \\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 2\Clienti_Antrenamente\Clienti_Antrenamente\obj\Debug\Clienti_Antrenamente.exe
 \\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 2\Clienti_Antrenamente\Clienti_Antrenamente\obj\Debug\Clienti_Antrenamente.pdb
 \\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 2\Clienti_Antrenamente\Clienti_Antrenamente\obj\Debug\Clienti_Antrenamente.AdaugaClient.resources
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 2\Clienti_Antrenamente\Clienti_Antrenamente\obj\Debug\Clienti_Antrenamente.AdaugaAntrenament.resources
