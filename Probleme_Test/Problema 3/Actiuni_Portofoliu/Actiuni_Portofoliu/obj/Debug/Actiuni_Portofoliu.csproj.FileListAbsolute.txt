@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 3\Actiuni_Portofoliu\Actiuni_Portofoliu\bin\Debug\Actiuni_Portofoliu.exe.config
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 3\Actiuni_Portofoliu\Actiuni_Portofoliu\bin\Debug\Actiuni_Portofoliu.exe
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 3\Actiuni_Portofoliu\Actiuni_Portofoliu\bin\Debug\Actiuni_Portofoliu.pdb
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 3\Actiuni_Portofoliu\Actiuni_Portofoliu\obj\Debug\Actiuni_Portofoliu.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 3\Actiuni_Portofoliu\Actiuni_Portofoliu\obj\Debug\Actiuni_Portofoliu.Form1.resources
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 3\Actiuni_Portofoliu\Actiuni_Portofoliu\obj\Debug\Actiuni_Portofoliu.Properties.Resources.resources
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 3\Actiuni_Portofoliu\Actiuni_Portofoliu\obj\Debug\Actiuni_Portofoliu.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 3\Actiuni_Portofoliu\Actiuni_Portofoliu\obj\Debug\Actiuni_Portofoliu.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 3\Actiuni_Portofoliu\Actiuni_Portofoliu\obj\Debug\Actiuni_Portofoliu.exe
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 3\Actiuni_Portofoliu\Actiuni_Portofoliu\obj\Debug\Actiuni_Portofoliu.pdb
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Test\Problema 3\Actiuni_Portofoliu\Actiuni_Portofoliu\obj\Debug\Actiuni_Portofoliu.AdaugaActiune.resources

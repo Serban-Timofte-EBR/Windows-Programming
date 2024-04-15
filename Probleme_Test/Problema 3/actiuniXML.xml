@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfActiune xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Actiune>
+    <nume>CODE</nume>
+    <companie>Softbinator</companie>
+    <pretActual>2.5</pretActual>
+    <volumZi>100</volumZi>
+  </Actiune>
+  <Actiune>
+    <nume>BTV</nume>
+    <companie>Banca Transilvania</companie>
+    <pretActual>134</pretActual>
+    <volumZi>10000</volumZi>
+  </Actiune>
+  <Actiune>
+    <nume>OMV</nume>
+    <companie>OMV Petrom</companie>
+    <pretActual>25.3</pretActual>
+    <volumZi>450</volumZi>
+  </Actiune>
+</ArrayOfActiune>
