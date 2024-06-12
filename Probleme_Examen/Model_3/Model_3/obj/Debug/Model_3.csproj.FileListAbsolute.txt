@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_3\Model_3\bin\Debug\Model_3.exe.config
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_3\Model_3\bin\Debug\Model_3.exe
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_3\Model_3\bin\Debug\Model_3.pdb
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_3\Model_3\obj\Debug\Model_3.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_3\Model_3\obj\Debug\Model_3.AdaugareComandaPizza.resources
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_3\Model_3\obj\Debug\Model_3.Form1.resources
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_3\Model_3\obj\Debug\Model_3.Properties.Resources.resources
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_3\Model_3\obj\Debug\Model_3.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_3\Model_3\obj\Debug\Model_3.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_3\Model_3\obj\Debug\Model_3.exe
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_3\Model_3\obj\Debug\Model_3.pdb

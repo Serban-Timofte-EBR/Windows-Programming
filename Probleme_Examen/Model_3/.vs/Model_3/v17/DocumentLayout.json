@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{603DB9A3-FDF7-409B-AE5C-232D4513BB5F}|Model_3\\Model_3.csproj|\\\\mac\\home\\documents\\codes\uF028\\windows-programming\\probleme_examen\\model_3\\model_3\\adaugarecomandapizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603DB9A3-FDF7-409B-AE5C-232D4513BB5F}|Model_3\\Model_3.csproj|\\\\mac\\home\\documents\\codes\uF028\\windows-programming\\probleme_examen\\model_3\\model_3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603DB9A3-FDF7-409B-AE5C-232D4513BB5F}|Model_3\\Model_3.csproj|\\\\mac\\home\\documents\\codes\uF028\\windows-programming\\probleme_examen\\model_3\\model_3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603DB9A3-FDF7-409B-AE5C-232D4513BB5F}|Model_3\\Model_3.csproj|\\\\mac\\home\\documents\\codes\uF028\\windows-programming\\probleme_examen\\model_3\\model_3\\adaugarecomandapizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603DB9A3-FDF7-409B-AE5C-232D4513BB5F}|Model_3\\Model_3.csproj|\\\\mac\\home\\documents\\codes\uF028\\windows-programming\\probleme_examen\\model_3\\model_3\\comandapizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603DB9A3-FDF7-409B-AE5C-232D4513BB5F}|Model_3\\Model_3.csproj|\\\\mac\\home\\documents\\codes\uF028\\windows-programming\\probleme_examen\\model_3\\model_3\\topping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_3\\Model_3\\Form1.cs",
+              "RelativeDocumentMoniker": "Model_3\\Form1.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_3\\Model_3\\Form1.cs [Design]",
+              "RelativeToolTip": "Model_3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:22:09.878Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_3\\Model_3\\Form1.cs",
+              "RelativeDocumentMoniker": "Model_3\\Form1.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_3\\Model_3\\Form1.cs",
+              "RelativeToolTip": "Model_3\\Form1.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAQwEUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:47:08.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdaugareComandaPizza.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_3\\Model_3\\AdaugareComandaPizza.cs",
+              "RelativeDocumentMoniker": "Model_3\\AdaugareComandaPizza.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_3\\Model_3\\AdaugareComandaPizza.cs",
+              "RelativeToolTip": "Model_3\\AdaugareComandaPizza.cs",
+              "ViewState": "AQIAAB0AAAB4dWZmZmYdwDAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:44:35.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdaugareComandaPizza.cs [Design]",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_3\\Model_3\\AdaugareComandaPizza.cs",
+              "RelativeDocumentMoniker": "Model_3\\AdaugareComandaPizza.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_3\\Model_3\\AdaugareComandaPizza.cs [Design]",
+              "RelativeToolTip": "Model_3\\AdaugareComandaPizza.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:40:45.327Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComandaPizza.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_3\\Model_3\\ComandaPizza.cs",
+              "RelativeDocumentMoniker": "Model_3\\ComandaPizza.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_3\\Model_3\\ComandaPizza.cs",
+              "RelativeToolTip": "Model_3\\ComandaPizza.cs",
+              "ViewState": "AQIAACUAAACAAAAAAMAjwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:26:40.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Topping.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_3\\Model_3\\Topping.cs",
+              "RelativeDocumentMoniker": "Model_3\\Topping.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_3\\Model_3\\Topping.cs",
+              "RelativeToolTip": "Model_3\\Topping.cs",
+              "ViewState": "AQIAAAYAAAAAb2ZmZmb6vxoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:22:32.669Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
