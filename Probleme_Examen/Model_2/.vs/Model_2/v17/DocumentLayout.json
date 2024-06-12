@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F988DAF-673A-4484-BCFF-08AC699AEA03}|Model_2\\Model_2.csproj|\\\\mac\\home\\documents\\codes\uF028\\windows-programming\\probleme_examen\\model_2\\model_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F988DAF-673A-4484-BCFF-08AC699AEA03}|Model_2\\Model_2.csproj|\\\\mac\\home\\documents\\codes\uF028\\windows-programming\\probleme_examen\\model_2\\model_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F988DAF-673A-4484-BCFF-08AC699AEA03}|Model_2\\Model_2.csproj|\\\\mac\\home\\documents\\codes\uF028\\windows-programming\\probleme_examen\\model_2\\model_2\\angajat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F988DAF-673A-4484-BCFF-08AC699AEA03}|Model_2\\Model_2.csproj|\\\\mac\\home\\documents\\codes\uF028\\windows-programming\\probleme_examen\\model_2\\model_2\\adaugaangajat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F988DAF-673A-4484-BCFF-08AC699AEA03}|Model_2\\Model_2.csproj|\\\\mac\\home\\documents\\codes\uF028\\windows-programming\\probleme_examen\\model_2\\model_2\\adaugaangajat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_2\\Model_2\\Form1.cs",
+              "RelativeDocumentMoniker": "Model_2\\Form1.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_2\\Model_2\\Form1.cs [Design]",
+              "RelativeToolTip": "Model_2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:14:22.587Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_2\\Model_2\\Form1.cs",
+              "RelativeDocumentMoniker": "Model_2\\Form1.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_2\\Model_2\\Form1.cs",
+              "RelativeToolTip": "Model_2\\Form1.cs",
+              "ViewState": "AQIAACAAAAAAopmZmVkrwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:20:00.59Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdaugaAngajat.cs [Design]",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_2\\Model_2\\AdaugaAngajat.cs",
+              "RelativeDocumentMoniker": "Model_2\\AdaugaAngajat.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_2\\Model_2\\AdaugaAngajat.cs [Design]",
+              "RelativeToolTip": "Model_2\\AdaugaAngajat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:24:48.674Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdaugaAngajat.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_2\\Model_2\\AdaugaAngajat.cs",
+              "RelativeDocumentMoniker": "Model_2\\AdaugaAngajat.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_2\\Model_2\\AdaugaAngajat.cs",
+              "RelativeToolTip": "Model_2\\AdaugaAngajat.cs",
+              "ViewState": "AQIAAB8AAAAAvczMzEwTwCMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:28:09.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Angajat.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_2\\Model_2\\Angajat.cs",
+              "RelativeDocumentMoniker": "Model_2\\Angajat.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_2\\Model_2\\Angajat.cs",
+              "RelativeToolTip": "Model_2\\Angajat.cs",
+              "ViewState": "AQIAACUAAADANjMzM7MrwDUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:16:53.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

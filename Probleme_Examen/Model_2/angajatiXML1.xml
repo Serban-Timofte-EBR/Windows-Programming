@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfAngajat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Angajat>
+    <nume>gfdgdfgdfgdfg</nume>
+    <dataNasterii>1989-03-01T00:00:00</dataNasterii>
+    <idCompanie>21</idCompanie>
+    <Nume>gfdgdfgdfgdfg</Nume>
+    <DataNasterii>1989-03-01T00:00:00</DataNasterii>
+    <IDCompanie>21</IDCompanie>
+  </Angajat>
+  <Angajat>
+    <nume>dsfvsdvsdf</nume>
+    <dataNasterii>2000-02-01T00:00:00</dataNasterii>
+    <idCompanie>98</idCompanie>
+    <Nume>dsfvsdvsdf</Nume>
+    <DataNasterii>2000-02-01T00:00:00</DataNasterii>
+    <IDCompanie>98</IDCompanie>
+  </Angajat>
+</ArrayOfAngajat>

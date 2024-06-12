@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_2\Model_2\bin\Debug\Model_2.exe.config
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_2\Model_2\bin\Debug\Model_2.exe
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_2\Model_2\bin\Debug\Model_2.pdb
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_2\Model_2\obj\Debug\Model_2.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_2\Model_2\obj\Debug\Model_2.Form1.resources
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_2\Model_2\obj\Debug\Model_2.Properties.Resources.resources
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_2\Model_2\obj\Debug\Model_2.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_2\Model_2\obj\Debug\Model_2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_2\Model_2\obj\Debug\Model_2.exe
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_2\Model_2\obj\Debug\Model_2.pdb
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_2\Model_2\obj\Debug\Model_2.AdaugaAngajat.resources
