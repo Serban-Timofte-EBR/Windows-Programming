@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Medici-pacientiv9-apr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4983FEC1-E208-4A01-A6C7-7346F11C0A20}|Medici-Pacienti\\Medici-Pacienti.csproj|\\\\mac\\home\\documents\\codes\uF028\\windows-programming\\medici-pacientiv9-apr\\medici-pacienti\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4983FEC1-E208-4A01-A6C7-7346F11C0A20}|Medici-Pacienti\\Medici-Pacienti.csproj|\\\\mac\\home\\documents\\codes\uF028\\windows-programming\\medici-pacientiv9-apr\\medici-pacienti\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4983FEC1-E208-4A01-A6C7-7346F11C0A20}|Medici-Pacienti\\Medici-Pacienti.csproj|\\\\mac\\home\\documents\\codes\uF028\\windows-programming\\medici-pacientiv9-apr\\medici-pacienti\\formmedic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4983FEC1-E208-4A01-A6C7-7346F11C0A20}|Medici-Pacienti\\Medici-Pacienti.csproj|\\\\mac\\home\\documents\\codes\uF028\\windows-programming\\medici-pacientiv9-apr\\medici-pacienti\\formmedic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Medici-pacientiv9-apr\\Medici-Pacienti\\Form1.cs",
+              "RelativeDocumentMoniker": "Medici-Pacienti\\Form1.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Medici-pacientiv9-apr\\Medici-Pacienti\\Form1.cs [Design]",
+              "RelativeToolTip": "Medici-Pacienti\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T12:50:04.903Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Medici-pacientiv9-apr\\Medici-Pacienti\\Form1.cs",
+              "RelativeDocumentMoniker": "Medici-Pacienti\\Form1.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Medici-pacientiv9-apr\\Medici-Pacienti\\Form1.cs",
+              "RelativeToolTip": "Medici-Pacienti\\Form1.cs",
+              "ViewState": "AQIAAEgBAACAzczMzEwZwGIBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:34:09.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMedic.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Medici-pacientiv9-apr\\Medici-Pacienti\\FormMedic.cs",
+              "RelativeDocumentMoniker": "Medici-Pacienti\\FormMedic.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Medici-pacientiv9-apr\\Medici-Pacienti\\FormMedic.cs",
+              "RelativeToolTip": "Medici-Pacienti\\FormMedic.cs",
+              "ViewState": "AQIAACcAAABAa2ZmZuYowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-11T18:52:13.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMedic.cs [Design]",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Medici-pacientiv9-apr\\Medici-Pacienti\\FormMedic.cs",
+              "RelativeDocumentMoniker": "Medici-Pacienti\\FormMedic.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Medici-pacientiv9-apr\\Medici-Pacienti\\FormMedic.cs [Design]",
+              "RelativeToolTip": "Medici-Pacienti\\FormMedic.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-11T18:50:57.544Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

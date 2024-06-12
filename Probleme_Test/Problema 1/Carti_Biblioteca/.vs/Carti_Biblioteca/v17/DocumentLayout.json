@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Test\\Problema 1\\Carti_Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32D2CFC1-1059-46BB-AA40-A46B3ABF8038}|Carti_Biblioteca\\Carti_Biblioteca.csproj|\\\\mac\\home\\documents\\codes\uF028\\windows-programming\\probleme_test\\problema 1\\carti_biblioteca\\carti_biblioteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D2CFC1-1059-46BB-AA40-A46B3ABF8038}|Carti_Biblioteca\\Carti_Biblioteca.csproj|\\\\mac\\home\\documents\\codes\uF028\\windows-programming\\probleme_test\\problema 1\\carti_biblioteca\\carti_biblioteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D2CFC1-1059-46BB-AA40-A46B3ABF8038}|Carti_Biblioteca\\Carti_Biblioteca.csproj|\\\\mac\\home\\documents\\codes\uF028\\windows-programming\\probleme_test\\problema 1\\carti_biblioteca\\carti_biblioteca\\adaugacarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D2CFC1-1059-46BB-AA40-A46B3ABF8038}|Carti_Biblioteca\\Carti_Biblioteca.csproj|\\\\mac\\home\\documents\\codes\uF028\\windows-programming\\probleme_test\\problema 1\\carti_biblioteca\\carti_biblioteca\\adaugacarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Test\\Problema 1\\Carti_Biblioteca\\Carti_Biblioteca\\Form1.cs",
+              "RelativeDocumentMoniker": "Carti_Biblioteca\\Form1.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Test\\Problema 1\\Carti_Biblioteca\\Carti_Biblioteca\\Form1.cs [Design]",
+              "RelativeToolTip": "Carti_Biblioteca\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T11:01:15.446Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdaugaCarte.cs [Design]",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Test\\Problema 1\\Carti_Biblioteca\\Carti_Biblioteca\\AdaugaCarte.cs",
+              "RelativeDocumentMoniker": "Carti_Biblioteca\\AdaugaCarte.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Test\\Problema 1\\Carti_Biblioteca\\Carti_Biblioteca\\AdaugaCarte.cs [Design]",
+              "RelativeToolTip": "Carti_Biblioteca\\AdaugaCarte.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T11:17:47.58Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Test\\Problema 1\\Carti_Biblioteca\\Carti_Biblioteca\\Form1.cs",
+              "RelativeDocumentMoniker": "Carti_Biblioteca\\Form1.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Test\\Problema 1\\Carti_Biblioteca\\Carti_Biblioteca\\Form1.cs",
+              "RelativeToolTip": "Carti_Biblioteca\\Form1.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAiwFYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T11:06:26.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdaugaCarte.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Test\\Problema 1\\Carti_Biblioteca\\Carti_Biblioteca\\AdaugaCarte.cs",
+              "RelativeDocumentMoniker": "Carti_Biblioteca\\AdaugaCarte.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Test\\Problema 1\\Carti_Biblioteca\\Carti_Biblioteca\\AdaugaCarte.cs",
+              "RelativeToolTip": "Carti_Biblioteca\\AdaugaCarte.cs",
+              "ViewState": "AQIAAAYAAADAm5mZmVkuwDwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T11:18:06.829Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

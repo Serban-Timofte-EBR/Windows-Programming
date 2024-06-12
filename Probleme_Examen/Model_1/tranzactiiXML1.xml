@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<ArrayOfTranzactie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tranzactie>
+    <contIban>RO24INGB34343</contIban>
+    <detaliiTranzactie>Plata facturi</detaliiTranzactie>
+    <suma>452.31</suma>
+    <ContIban>RO24INGB34343</ContIban>
+    <Suma>0</Suma>
+  </Tranzactie>
+  <Tranzactie>
+    <contIban>RO21BRDB21323</contIban>
+    <detaliiTranzactie>Bani de mancare</detaliiTranzactie>
+    <suma>110</suma>
+    <ContIban>RO21BRDB21323</ContIban>
+    <Suma>0</Suma>
+  </Tranzactie>
+  <Tranzactie>
+    <contIban>RO45RAIF31212</contIban>
+    <detaliiTranzactie>Transfer</detaliiTranzactie>
+    <suma>432.21</suma>
+    <ContIban>RO45RAIF31212</ContIban>
+    <Suma>0</Suma>
+  </Tranzactie>
+  <Tranzactie>
+    <contIban>RO43INGB21332</contIban>
+    <detaliiTranzactie>Plata bilete</detaliiTranzactie>
+    <suma>21.21</suma>
+    <ContIban>RO43INGB21332</ContIban>
+    <Suma>0</Suma>
+  </Tranzactie>
+  <Tranzactie>
+    <contIban>RO21BCR21323</contIban>
+    <detaliiTranzactie>Plata restaurant</detaliiTranzactie>
+    <suma>100.21</suma>
+    <ContIban>RO21BCR21323</ContIban>
+    <Suma>0</Suma>
+  </Tranzactie>
+</ArrayOfTranzactie>

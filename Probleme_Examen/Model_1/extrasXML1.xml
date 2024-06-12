@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<ArrayOfExtrasCont xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ExtrasCont>
+    <tranzactii>
+      <Tranzactie>
+        <contIban>RO24INGB34343</contIban>
+        <detaliiTranzactie>Plata facturi</detaliiTranzactie>
+        <suma>452.31</suma>
+        <Suma>0</Suma>
+      </Tranzactie>
+      <Tranzactie>
+        <contIban>RO21BRDB21323</contIban>
+        <detaliiTranzactie>Bani de mancare</detaliiTranzactie>
+        <suma>110</suma>
+        <Suma>0</Suma>
+      </Tranzactie>
+      <Tranzactie>
+        <contIban>RO45RAIF31212</contIban>
+        <detaliiTranzactie>Transfer</detaliiTranzactie>
+        <suma>432.21</suma>
+        <Suma>0</Suma>
+      </Tranzactie>
+    </tranzactii>
+    <numeClient>Gabriel Popescu</numeClient>
+    <adresa>Bld. Unirii 89</adresa>
+  </ExtrasCont>
+  <ExtrasCont>
+    <tranzactii>
+      <Tranzactie>
+        <contIban>RO43INGB21332</contIban>
+        <detaliiTranzactie>Plata bilete</detaliiTranzactie>
+        <suma>21.21</suma>
+        <Suma>0</Suma>
+      </Tranzactie>
+      <Tranzactie>
+        <contIban>RO21BCR21323</contIban>
+        <detaliiTranzactie>Plata restaurant</detaliiTranzactie>
+        <suma>100.21</suma>
+        <Suma>0</Suma>
+      </Tranzactie>
+    </tranzactii>
+    <numeClient>Maria Andonescu</numeClient>
+    <adresa>Calea Victoriei 78</adresa>
+  </ExtrasCont>
+  <ExtrasCont>
+    <tranzactii>
+      <Tranzactie>
+        <contIban>RO21BCR21323</contIban>
+        <detaliiTranzactie>Plata restaurant</detaliiTranzactie>
+        <suma>100.21</suma>
+        <Suma>0</Suma>
+      </Tranzactie>
+      <Tranzactie>
+        <contIban>RO21BRDB21323</contIban>
+        <detaliiTranzactie>Bani de mancare</detaliiTranzactie>
+        <suma>110</suma>
+        <Suma>0</Suma>
+      </Tranzactie>
+    </tranzactii>
+    <numeClient>Vasile Iulius</numeClient>
+    <adresa>Strada Izvor 90</adresa>
+  </ExtrasCont>
+</ArrayOfExtrasCont>

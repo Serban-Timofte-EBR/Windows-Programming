@@ -1,0 +1,12 @@
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_1\Model_1\bin\Debug\Model_1.exe.config
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_1\Model_1\bin\Debug\Model_1.exe
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_1\Model_1\bin\Debug\Model_1.pdb
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_1\Model_1\obj\Debug\Model_1.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_1\Model_1\obj\Debug\Model_1.Form1.resources
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_1\Model_1\obj\Debug\Model_1.Properties.Resources.resources
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_1\Model_1\obj\Debug\Model_1.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_1\Model_1\obj\Debug\Model_1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_1\Model_1\obj\Debug\Model_1.exe
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_1\Model_1\obj\Debug\Model_1.pdb
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_1\Model_1\obj\Debug\Model_1.AdaugaExtras.resources
+\\Mac\Home\Documents\Codes\Windows-Programming\Probleme_Examen\Model_1\Model_1\obj\Debug\Model_1.AdaugareTranzactie.resources

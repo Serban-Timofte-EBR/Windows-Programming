@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16C55E32-5145-4208-BB7F-5D7863802465}|Model_1\\Model_1.csproj|\\\\mac\\home\\documents\\codes\uF028\\windows-programming\\probleme_examen\\model_1\\model_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C55E32-5145-4208-BB7F-5D7863802465}|Model_1\\Model_1.csproj|\\\\mac\\home\\documents\\codes\uF028\\windows-programming\\probleme_examen\\model_1\\model_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C55E32-5145-4208-BB7F-5D7863802465}|Model_1\\Model_1.csproj|\\\\mac\\home\\documents\\codes\uF028\\windows-programming\\probleme_examen\\model_1\\model_1\\extrascont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C55E32-5145-4208-BB7F-5D7863802465}|Model_1\\Model_1.csproj|\\\\mac\\home\\documents\\codes\uF028\\windows-programming\\probleme_examen\\model_1\\model_1\\adaugaretranzactie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C55E32-5145-4208-BB7F-5D7863802465}|Model_1\\Model_1.csproj|\\\\mac\\home\\documents\\codes\uF028\\windows-programming\\probleme_examen\\model_1\\model_1\\adaugaretranzactie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C55E32-5145-4208-BB7F-5D7863802465}|Model_1\\Model_1.csproj|\\\\mac\\home\\documents\\codes\uF028\\windows-programming\\probleme_examen\\model_1\\model_1\\tranzactie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_1\\Model_1\\Form1.cs",
+              "RelativeDocumentMoniker": "Model_1\\Form1.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_1\\Model_1\\Form1.cs [Design]",
+              "RelativeToolTip": "Model_1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:06:36.359Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_1\\Model_1\\Form1.cs",
+              "RelativeDocumentMoniker": "Model_1\\Form1.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_1\\Model_1\\Form1.cs",
+              "RelativeToolTip": "Model_1\\Form1.cs",
+              "ViewState": "AQIAADACAACANjMzMzMwwEsCAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T06:38:41.549Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdaugareTranzactie.cs [Design]",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_1\\Model_1\\AdaugareTranzactie.cs",
+              "RelativeDocumentMoniker": "Model_1\\AdaugareTranzactie.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_1\\Model_1\\AdaugareTranzactie.cs [Design]",
+              "RelativeToolTip": "Model_1\\AdaugareTranzactie.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:31:00.967Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdaugareTranzactie.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_1\\Model_1\\AdaugareTranzactie.cs",
+              "RelativeDocumentMoniker": "Model_1\\AdaugareTranzactie.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_1\\Model_1\\AdaugareTranzactie.cs",
+              "RelativeToolTip": "Model_1\\AdaugareTranzactie.cs",
+              "ViewState": "AQIAAAAAAAAANDMzMzP7vyYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:22:50.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExtrasCont.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_1\\Model_1\\ExtrasCont.cs",
+              "RelativeDocumentMoniker": "Model_1\\ExtrasCont.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_1\\Model_1\\ExtrasCont.cs",
+              "RelativeToolTip": "Model_1\\ExtrasCont.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:14:04.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tranzactie.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_1\\Model_1\\Tranzactie.cs",
+              "RelativeDocumentMoniker": "Model_1\\Tranzactie.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Codes\uF028\\Windows-Programming\\Probleme_Examen\\Model_1\\Model_1\\Tranzactie.cs",
+              "RelativeToolTip": "Model_1\\Tranzactie.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIB2vRUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:07:17.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
