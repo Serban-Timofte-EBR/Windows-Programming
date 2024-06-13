@@ -1,0 +1,12 @@
+C:\Users\serba\Desktop\Windows-Programming\Probleme_Examen\Model_4\Model_4\bin\Debug\Model_4.exe.config
+C:\Users\serba\Desktop\Windows-Programming\Probleme_Examen\Model_4\Model_4\bin\Debug\Model_4.exe
+C:\Users\serba\Desktop\Windows-Programming\Probleme_Examen\Model_4\Model_4\bin\Debug\Model_4.pdb
+C:\Users\serba\Desktop\Windows-Programming\Probleme_Examen\Model_4\Model_4\obj\Debug\Model_4.csproj.AssemblyReference.cache
+C:\Users\serba\Desktop\Windows-Programming\Probleme_Examen\Model_4\Model_4\obj\Debug\Model_4.Form1.resources
+C:\Users\serba\Desktop\Windows-Programming\Probleme_Examen\Model_4\Model_4\obj\Debug\Model_4.Properties.Resources.resources
+C:\Users\serba\Desktop\Windows-Programming\Probleme_Examen\Model_4\Model_4\obj\Debug\Model_4.csproj.GenerateResource.cache
+C:\Users\serba\Desktop\Windows-Programming\Probleme_Examen\Model_4\Model_4\obj\Debug\Model_4.csproj.CoreCompileInputs.cache
+C:\Users\serba\Desktop\Windows-Programming\Probleme_Examen\Model_4\Model_4\obj\Debug\Model_4.exe
+C:\Users\serba\Desktop\Windows-Programming\Probleme_Examen\Model_4\Model_4\obj\Debug\Model_4.pdb
+C:\Users\serba\Desktop\Windows-Programming\Probleme_Examen\Model_4\Model_4\bin\Debug\bazaDeDate.mdf
+C:\Users\serba\Desktop\Windows-Programming\Probleme_Examen\Model_4\Model_4\bin\Debug\bazaDeDate_log.ldf
