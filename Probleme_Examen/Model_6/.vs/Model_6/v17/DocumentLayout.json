@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\serba\\Desktop\\Windows-Programming\\Probleme_Examen\\Model_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78077F0B-EC16-4C18-B652-D4E4F02A0CAC}|Model_6\\Model_6.csproj|c:\\users\\serba\\desktop\\windows-programming\\probleme_examen\\model_6\\model_6\\grafic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78077F0B-EC16-4C18-B652-D4E4F02A0CAC}|Model_6\\Model_6.csproj|solutionrelative:model_6\\grafic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78077F0B-EC16-4C18-B652-D4E4F02A0CAC}|Model_6\\Model_6.csproj|c:\\users\\serba\\desktop\\windows-programming\\probleme_examen\\model_6\\model_6\\grafic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78077F0B-EC16-4C18-B652-D4E4F02A0CAC}|Model_6\\Model_6.csproj|solutionrelative:model_6\\grafic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78077F0B-EC16-4C18-B652-D4E4F02A0CAC}|Model_6\\Model_6.csproj|c:\\users\\serba\\desktop\\windows-programming\\probleme_examen\\model_6\\model_6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78077F0B-EC16-4C18-B652-D4E4F02A0CAC}|Model_6\\Model_6.csproj|solutionrelative:model_6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78077F0B-EC16-4C18-B652-D4E4F02A0CAC}|Model_6\\Model_6.csproj|c:\\users\\serba\\desktop\\windows-programming\\probleme_examen\\model_6\\model_6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78077F0B-EC16-4C18-B652-D4E4F02A0CAC}|Model_6\\Model_6.csproj|solutionrelative:model_6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78077F0B-EC16-4C18-B652-D4E4F02A0CAC}|Model_6\\Model_6.csproj|c:\\users\\serba\\desktop\\windows-programming\\probleme_examen\\model_6\\model_6\\adaugareutilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78077F0B-EC16-4C18-B652-D4E4F02A0CAC}|Model_6\\Model_6.csproj|solutionrelative:model_6\\adaugareutilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78077F0B-EC16-4C18-B652-D4E4F02A0CAC}|Model_6\\Model_6.csproj|c:\\users\\serba\\desktop\\windows-programming\\probleme_examen\\model_6\\model_6\\adaugareutilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78077F0B-EC16-4C18-B652-D4E4F02A0CAC}|Model_6\\Model_6.csproj|solutionrelative:model_6\\adaugareutilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78077F0B-EC16-4C18-B652-D4E4F02A0CAC}|Model_6\\Model_6.csproj|c:\\users\\serba\\desktop\\windows-programming\\probleme_examen\\model_6\\model_6\\utilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78077F0B-EC16-4C18-B652-D4E4F02A0CAC}|Model_6\\Model_6.csproj|solutionrelative:model_6\\utilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\serba\\Desktop\\Windows-Programming\\Probleme_Examen\\Model_6\\Model_6\\Form1.cs",
+              "RelativeDocumentMoniker": "Model_6\\Form1.cs",
+              "ToolTip": "C:\\Users\\serba\\Desktop\\Windows-Programming\\Probleme_Examen\\Model_6\\Model_6\\Form1.cs [Design]",
+              "RelativeToolTip": "Model_6\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:47:24.117Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\serba\\Desktop\\Windows-Programming\\Probleme_Examen\\Model_6\\Model_6\\Form1.cs",
+              "RelativeDocumentMoniker": "Model_6\\Form1.cs",
+              "ToolTip": "C:\\Users\\serba\\Desktop\\Windows-Programming\\Probleme_Examen\\Model_6\\Model_6\\Form1.cs",
+              "RelativeToolTip": "Model_6\\Form1.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAMwIgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:50:46.505Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Grafic.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\serba\\Desktop\\Windows-Programming\\Probleme_Examen\\Model_6\\Model_6\\Grafic.cs",
+              "RelativeDocumentMoniker": "Model_6\\Grafic.cs",
+              "ToolTip": "C:\\Users\\serba\\Desktop\\Windows-Programming\\Probleme_Examen\\Model_6\\Model_6\\Grafic.cs [Design]",
+              "RelativeToolTip": "Model_6\\Grafic.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:43:37.141Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdaugareUtilizator.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\serba\\Desktop\\Windows-Programming\\Probleme_Examen\\Model_6\\Model_6\\AdaugareUtilizator.cs",
+              "RelativeDocumentMoniker": "Model_6\\AdaugareUtilizator.cs",
+              "ToolTip": "C:\\Users\\serba\\Desktop\\Windows-Programming\\Probleme_Examen\\Model_6\\Model_6\\AdaugareUtilizator.cs [Design]",
+              "RelativeToolTip": "Model_6\\AdaugareUtilizator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:15:22.823Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdaugareUtilizator.cs",
+              "DocumentMoniker": "C:\\Users\\serba\\Desktop\\Windows-Programming\\Probleme_Examen\\Model_6\\Model_6\\AdaugareUtilizator.cs",
+              "RelativeDocumentMoniker": "Model_6\\AdaugareUtilizator.cs",
+              "ToolTip": "C:\\Users\\serba\\Desktop\\Windows-Programming\\Probleme_Examen\\Model_6\\Model_6\\AdaugareUtilizator.cs",
+              "RelativeToolTip": "Model_6\\AdaugareUtilizator.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAMwDkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:18:25.71Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Grafic.cs",
+              "DocumentMoniker": "C:\\Users\\serba\\Desktop\\Windows-Programming\\Probleme_Examen\\Model_6\\Model_6\\Grafic.cs",
+              "RelativeDocumentMoniker": "Model_6\\Grafic.cs",
+              "ToolTip": "C:\\Users\\serba\\Desktop\\Windows-Programming\\Probleme_Examen\\Model_6\\Model_6\\Grafic.cs",
+              "RelativeToolTip": "Model_6\\Grafic.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:45:00.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Utilizator.cs",
+              "DocumentMoniker": "C:\\Users\\serba\\Desktop\\Windows-Programming\\Probleme_Examen\\Model_6\\Model_6\\Utilizator.cs",
+              "RelativeDocumentMoniker": "Model_6\\Utilizator.cs",
+              "ToolTip": "C:\\Users\\serba\\Desktop\\Windows-Programming\\Probleme_Examen\\Model_6\\Model_6\\Utilizator.cs",
+              "RelativeToolTip": "Model_6\\Utilizator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:10:58.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
