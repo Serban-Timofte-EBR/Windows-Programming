@@ -4,10 +4,12 @@ using System.ComponentModel;
 using System.Data;
 using System.Data.SqlClient;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Xml.Serialization;
 
 namespace Model_4
 {
@@ -143,11 +145,11 @@ namespace Model_4
                     using (SqlCommand command = new SqlCommand(insertQuery, connection))
                     {
                         command.ExecuteNonQuery();
-                        MessageBox.Show("Pacientii au fost salvati cu succes", 
-                            "Message", MessageBoxButtons.OK);
                     }
                 }
             }
+            MessageBox.Show("Pacientii au fost salvati cu succes",
+                            "Message", MessageBoxButtons.OK);
         }
 
         private void listView1_MouseClick(object sender, MouseEventArgs e)
@@ -181,6 +183,45 @@ namespace Model_4
                 lvPacienti.Items.Add(lvi);
             }
 
+        }
+
+        private void salvareMediciXML()
+        {
+            List<Medic> medici = new List<Medic>();
+
+            foreach(TreeNode node in tvMedicPacienti.Nodes)
+            {
+                medici.Add(node.Tag as Medic);
+            }
+
+            XmlSerializer serializer = new XmlSerializer(typeof(List<Medic>));
+            Stream fisier = File.Create("C:\\Users\\serba\\Desktop\\Windows-Programming\\Probleme_Examen\\Model_4\\medici.xml");
+            serializer.Serialize(fisier, medici);
+            fisier.Close();
+        }
+
+        private void salvarePacientiXML()
+        {
+            List<Pacient> pacienti = new List<Pacient>();
+
+            foreach (TreeNode node in tvMedicPacienti.Nodes)
+            {
+                foreach(TreeNode child in node.Nodes)
+                {
+                    pacienti.Add(child.Tag as Pacient);
+                }
+            }
+
+            XmlSerializer serializer = new XmlSerializer(typeof(List<Pacient>));
+            Stream fisier = File.Create("C:\\Users\\serba\\Desktop\\Windows-Programming\\Probleme_Examen\\Model_4\\pacienti.xml");
+            serializer.Serialize(fisier, pacienti);
+            fisier.Close();
+        }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            salvareMediciXML();
+            salvarePacientiXML();
         }
     }
 }

@@ -346,6 +346,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.bazaDeDateDataSet)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pacinetiBindingSource)).EndInit();

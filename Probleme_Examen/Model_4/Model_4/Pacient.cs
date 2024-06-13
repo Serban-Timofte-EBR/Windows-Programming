@@ -13,6 +13,10 @@ namespace Model_4
         public int codM;
         public float tarif_consultatie;
 
+        public Pacient()
+        {
+        }
+
         public Pacient(int codP, string nume, int codM, float tarif_consultatie)
         {
             this.codP = codP;

@@ -13,6 +13,10 @@ namespace Model_4
         public String nume;
         public String specializare;
 
+        public Medic()
+        {
+        }
+
         public int CodM
         {
             get { return codM; }

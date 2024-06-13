@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ArrayOfMedic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Medic>
+    <nume>324234</nume>
+    <specializare>Cardiologie</specializare>
+    <Nume>324234</Nume>
+    <Specializare>Cardiologie</Specializare>
+  </Medic>
+</ArrayOfMedic>
